@@ -23,8 +23,7 @@ Currently, I work as an **Embedded Software Engineer** in a smart homes company,
 - IoT Protocols (**MQTT**) and Platforms (**AWS IoT**)  
 
 **Tools & Frameworks**  
-- Keil µVision, STM32CubeIDE, Code Composer Studio  
-- Logic Analyzers and Oscilloscopes  
+- eclipse, vs code, Code Composer Studio  
 - Version Control with **Git**
 
 ---
@@ -81,7 +80,6 @@ Here are some highlights of my embedded systems projects:
 
 - **Diploma 1**: Embedded C, RTOS, AUTOSAR, and Device Driver Development  
 - **Diploma 2**: ARM Cortex-M Architecture, Automotive Buses (LIN, CAN), and MISRA Compliance  
-- Hands-on experience in hardware labs with oscilloscopes, logic analyzers, and protocol analyzers.  
 
 ---
 
