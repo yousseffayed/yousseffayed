@@ -84,9 +84,8 @@ Here are some highlights of my embedded systems projects:
 ---
 
 ### 📫 Contact Me  
-- 🌐 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📂 **GitHub**: [Your GitHub](https://github.com/yourusername)  
-- 📧 **Email**: your.email@example.com  
+- 🌐 **LinkedIn**: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/youssef-fayed-6472b720a/))  
+- 📧 **Email**: yousseffayed79@gmail.com 
 
 ---
 
